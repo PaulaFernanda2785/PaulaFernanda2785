@@ -6,14 +6,14 @@
   <img src="https://streak-stats.demolab.com?user=PaulaFernanda2785&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulaFernanda2785&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />-->
 </div>
-
+***
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulaFernanda2785/PaulaFernanda2785/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulaFernanda2785/PaulaFernanda2785/output/pacman-contribution-graph.svg">
 </picture>
-
+***
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -27,7 +27,7 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
 </div>
-
+***
 ###
 
 <div align="center">
