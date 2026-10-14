@@ -36,4 +36,6 @@ Desenvolvo sistemas web para gestão institucional, Defesa Civil e serviços. Tr
 
 Também colaboro no [SIGAC-BM/PA](https://github.com/matheuz-rodrigues/SIGAC), voltado à gestão do ciclo de contratações do CBMPA.
 
+**Portfólio:** [paulafernandacl.com](https://paulafernandacl.com/)
+
 **Contato:** [paulafernandacorrealima@gmail.com](mailto:paulafernandacorrealima@gmail.com)
