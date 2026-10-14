@@ -1,47 +1,39 @@
-<h2 align="left">Hi 👋! My name is <strong>Paula Fernanda</strong>  and I'm a DEV, from Brazil. 🇧🇷 🧠</h2>
+# Paula Fernanda
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulaFernanda2785&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PaulaFernanda2785&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=PaulaFernanda2785&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulaFernanda2785&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />-->
-</div>
+**Engenheira de Software · Administradora de Banco de Dados · Desenvolvedora Full Stack**
 
-###
+Desenvolvo sistemas web para gestão institucional, Defesa Civil e serviços. Trabalho da modelagem de dados à implantação, com foco em segurança, organização do código, interfaces responsivas e manutenção contínua.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulaFernanda2785/PaulaFernanda2785/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulaFernanda2785/PaulaFernanda2785/output/pacman-contribution-graph.svg">
-</picture>
+## Áreas de atuação
 
-###
+- **Engenharia de software:** arquitetura MVC e modular, APIs, integração de sistemas, testes, refatoração e documentação técnica.
+- **Banco de dados:** modelagem relacional, consultas SQL, índices, integridade dos dados, migrações e rotinas de backup.
+- **Desenvolvimento web:** aplicações administrativas, painéis, relatórios, mapas interativos, autenticação e controle de acesso.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Tecnologias
 
-###
+| Área | Tecnologias |
+| --- | --- |
+| Linguagens | PHP, JavaScript, TypeScript, SQL, HTML5 e CSS3 |
+| Backend e frontend | PHP MVC, PDO, APIs REST, React e Next.js |
+| Banco de dados | MySQL e MariaDB |
+| Desenvolvimento e implantação | Docker, Git, GitHub Actions, Apache, WampServer, VS Code e Hostinger |
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="37" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
-</div>
+## Projetos e sistemas
 
-###
+| Projeto | Aplicação |
+| --- | --- |
+| Multirriscos | Monitoramento de riscos, alertas e análises territoriais com mapas. |
+| DGD e [SIGERD](https://github.com/PaulaFernanda2785/SAAS-SIGERD) | Gestão de desastres, incidentes e operações institucionais. |
+| PLANCON | Organização e gestão de planos de contingência. |
+| Cadastro Emergencial | Cadastro e gestão de informações em situações de emergência. |
+| Gestão de Hidrantes | Cadastro e gerenciamento de redes de hidrantes. |
+| Clínica Cardoso | Gestão clínica, agenda, pacientes e controle financeiro. |
+| Sistema de Certificados | Emissão e gestão de certificados. |
+| Guardiões da Defesa Civil | Portal educativo sobre prevenção e Defesa Civil. |
+| [Editais System](https://github.com/PaulaFernanda2785/editais-system) | Plataforma de gestão de editais públicos. |
+| [CedeCast](https://github.com/PaulaFernanda2785/CedeCast) | Plataforma de divulgação de episódios da CEDEC/PA. |
 
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="41" alt="youtube logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="41" alt="instagram logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="41" alt="gmail logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="41" alt="facebook logo"  />
-  </a>
-</div>
+Também colaboro no [SIGAC-BM/PA](https://github.com/matheuz-rodrigues/SIGAC), voltado à gestão do ciclo de contratações do CBMPA.
 
+**Contato:** [paulafernandacorrealima@gmail.com](mailto:paulafernandacorrealima@gmail.com)
